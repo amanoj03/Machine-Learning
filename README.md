@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<h1 font align="center" style="italic">Machine-Learning</h1>
+<h1 font align="center" style="italic" size="95">Machine-Learning</h1>
 <p style="font-family:courier;">First Of its Kind
 The term Machine Learning was coined by Arthur Samuel in 1959, an American pioneer in the field of computer gaming and artificial intelligence and stated that “it gives computers the ability to learn without being explicitly programmed”.
 And in 1997, Tom Mitchell gave a “well-posed” mathematical and relational definition that “A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
