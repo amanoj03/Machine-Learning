@@ -15,3 +15,4 @@ The ‘means’ in the K-means refers to averaging of the data; that is, finding
 </p>
 </body>
 </html>
+ 
