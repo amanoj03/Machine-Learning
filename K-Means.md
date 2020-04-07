@@ -14,4 +14,4 @@ In other words, the K-means algorithm identifies k number of centroids, and then
 The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid.<br>
 </p>
 </body>
-</html>
+</html> 
